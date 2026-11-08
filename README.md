@@ -1,41 +1,62 @@
-# 🚀 Portfólio Pessoal - Nicolas Kronemberger
+# 💻 Portfólio Pessoal - Nicolas Kronemberger
 
-Este é o meu portfólio pessoal, desenvolvido para apresentar meus projetos, habilidades técnicas e minha trajetória como Desenvolvedor Back-End em formação.
+Este é o meu portfólio profissional, desenvolvido para centralizar meus projetos, minhas habilidades técnicas e minha trajetória como **Desenvolvedor Back-End**. O design foi pensado para unir uma estética moderna ("Dark Mode" e "Glassmorphism") com alta performance e responsividade, focando na melhor experiência para o usuário (Mobile-First).
 
-O projeto foi construído com foco em **design moderno, animações fluidas e interatividade**, refletindo minha paixão por tecnologia e arquitetura de software.
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-O projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
-
-*   **Frontend Base:** HTML5, CSS3, JavaScript (Vanilla)
-*   **Animações:** [GSAP (GreenSock)](https://greensock.com/) com ScrollTrigger
-*   **Ícones:** [FontAwesome](https://fontawesome.com/) e [Devicon](https://devicon.dev/)
-*   **Design de Interface:** CSS Grid, Flexbox, Glassmorphism e Holograma 3D (CSS Puro)
-*   **Tema e Idioma:** Sistema de alternância (Dark/Light Mode) e Internacionalização (PT/EN) com persistência via `localStorage`.
+🔗 **Acesse o portfólio online:** [https://kronemdev.github.io/Portifolio/](https://kronemdev.github.io/Portifolio/)
 
 ---
 
-## ✨ Funcionalidades
+## 🚀 Tecnologias Utilizadas
 
-*   **Design Responsivo:** Adaptável para Desktop, Tablets e Celulares.
-*   **Animações de Scroll:** Elementos e cards surgem suavemente conforme a rolagem da página.
-*   **Holograma Interativo:** Avatar 3D (computador) feito inteiramente em CSS.
-*   **Efeito Typewriter:** O cargo (Back-End | C#) é digitado dinamicamente na tela.
-*   **Chatbot "Clone":** Um assistente virtual integrado que responde perguntas pré-programadas sobre minha trajetória e stack.
-*   **Menu de Configurações:** Dropdown para alterar o Tema (Claro/Escuro) e o Idioma (Português/Inglês).
+O projeto foi construído do zero, sem o uso de frameworks pesados de front-end, priorizando performance e domínio das bases web:
+
+*   **HTML5 & CSS3:** Estrutura semântica, Flexbox, Grid, Variáveis CSS para troca de temas e animações.
+*   **JavaScript (Vanilla):** Lógica de alternância de tema (Dark/Light), sistema de idiomas, scroll suave e manipulação de DOM.
+*   **Design Responsivo:** Layout adaptável para Desktop, Tablets e Celulares.
+*   **Ícones:** [FontAwesome](https://fontawesome.com/) e [Devicon](https://devicon.dev/).
 
 ---
 
-## 📂 Estrutura do Projeto
+## ✨ Funcionalidades em Destaque
 
-```text
-/
-├── index.html          # Estrutura principal do site
-├── style.css           # Estilos, temas e responsividade
-├── script.js           # Lógica de tema, idioma, animações e menu
-├── translations.js     # Dicionário de textos (PT/EN)
-├── chatbot.js          # Lógica de interação do chatbot
-└── README.md           # Documentação do projeto
+*   **Tema Claro / Escuro:** Alternância de tema com persistência de preferência do usuário via `localStorage`.
+*   **Internacionalização (i18n):** Tradução completa do site entre Português (PT-BR) e Inglês (EN).
+*   **Navegação Inteligente:** Menu flutuante que aparece suavemente ao rolar a página e destaca a seção atual.
+*   **Cards de Projetos Reais:** Links diretos para sistemas em produção (com selo "ONLINE").
+
+---
+
+## 📂 Projetos em Destaque
+
+Aqui estão alguns dos sistemas que desenvolvi e que estão integrados a este portfólio:
+
+### 📊 Sistema de Controle Financeiro (Kronem Finanças)
+*   **Descrição:** Aplicação web completa para gestão financeira pessoal, com sistema de autenticação, dashboard interativo com gráficos e controle de despesas.
+*   **Tecnologias:** C#, .NET, SQL, Dashboard, Web API.
+*   **Link:** [Acessar Projeto](https://kronemfinancas.runasp.net/)
+
+### 💈 CB Barber Shop
+*   **Descrição:** Sistema web completo de agendamento e gestão para barbearia. Desenvolvido para resolver o problema real de um cliente, com controle de horários, serviços e interface responsiva.
+*   **Tecnologias:** C#, .NET, SQL, Web API.
+*   **Link:** [Acessar Projeto](https://cb-barbershop.runasp.net/)
+
+---
+
+## 🎓 Formação
+
+*   **SENAI São Caetano do Sul – Cyber e IA** (set. 2026 - dez. 2026)
+    *   Curso de Qualificação Profissional, Desenvolvedor Back-End (160h).
+    *   Foco em: C#, .NET, Azure, SQL, Git.
+
+---
+
+## 📬 Contato
+
+Sinta-se à vontade para entrar em contato comigo ou acompanhar meu trabalho:
+
+*   **LinkedIn:** [linkedin.com/in/kronemdev](https://www.linkedin.com/in/kronemdev)
+*   **GitHub:** [github.com/kronemdev](https://github.com/kronemdev)
+*   **E-mail:** [kronemxd@gmail.com](mailto:kronemxd@gmail.com)
+
+---
+*Desenvolvido por Nicolas Kronemberger © 2026.*
